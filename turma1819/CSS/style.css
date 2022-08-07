@@ -1,0 +1,117 @@
+* {
+ 
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-style: oblique;
+text-transform: uppercase;
+}
+html {
+    -webkit-font-smoothing: antialiased;}
+
+.imagen1{
+margin-left: 5%;
+margin-right: 5%;
+
+
+}
+.header {
+ background-color: rgb(189, 179, 126);
+ font-size: 15px;
+ margin-bottom:0%;
+ margin-left: 30px;
+ margin-right: 30px;
+ padding:0%;
+
+}
+
+#imagencentral{
+    
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.boton {
+    opacity: 0.8;
+    margin-left: 90px;
+    margin-right: 20px;
+    display: inline-block;
+    margin-bottom: 50px;
+    margin-top:50px ;
+    color: black;
+   
+}
+.boton:hover
+{
+opacity: 1;
+border: 1px solid ;
+background-color: rgba(123, 136, 247, 0.781);
+border-color: rgba(123, 136, 247, 0.781); 
+border-radius:4px ;
+}
+
+ 
+    
+.imagen {
+  text-align: center;
+  padding-right: 90px; 
+  padding-left: 90px;
+  padding-top: 50px;
+  
+}
+
+body {
+ background-image: url(https://www.faroalasnaciones.com/wp-content/uploads/2019/02/maxresdefault.jpg);
+ align-items: center;
+ background-size:cover;
+ background-repeat: no-repeat;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+aside { 
+display:inline-flex;
+}
+
+.subtitulo {
+    font-size: 20px;
+    color:black;
+    text-decoration:underline;
+}
+.parrafo {
+font-size:15px;
+color: rgb(12, 12, 12);
+text-align: start;
+font-style: normal;
+}
+.final {
+background-color: rgb(192, 169, 106);
+}
+#salas{
+padding-top: 20px;
+font-size: 10px;
+font-style: normal;
+padding-left: 5%;
+color: white;
+}
+.div1 {
+display: flex;
+text-align:start;
+margin-left: 5%;
+margin-bottom: 1%;
+font-size: 8px;
+color:white;
+line-height: 10px;
+}
+
+.descripcion {
+margin-left:2%;
+}
+.ultimadescripcion{
+text-align:initial;
+ }
+.final2 {
+margin-top: -7%;
+margin-left: 10%;
+}
+ 
